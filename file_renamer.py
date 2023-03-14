@@ -5,7 +5,7 @@ import os
 #print(dir_path)
 
 # Define the directory path
-path = 'C:\\Users\\Nutzer\\Desktop\\files_to_rename'
+path = 'E:\\Users\\xyz\\files_to_rename'
 
 # Define the file prefix or suffix
 prefix = "prefix_"
