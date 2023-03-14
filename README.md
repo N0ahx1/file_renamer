@@ -1,1 +1,2 @@
-# file_renamer
+## file_renamer
+Bulk File Renaming Tool in Python
